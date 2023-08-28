@@ -91,7 +91,7 @@ Yer ve zaman bilgilerine göre sinema biletlerini gösteren.
 
 
 
-Bunların hepsi aşağıdaki anlamlara gelir.
+Aşşağıdakilerin hepsi aynı anlama gelmektedir.
 
 ![C:\Users\sinan\AppData\Local\Microsoft\Windows\INetCache\Content.Word\1.png](Aspose.Words.621754da-0ce1-4b44-b1a7-5902eb1e16ed.007.png)
 
