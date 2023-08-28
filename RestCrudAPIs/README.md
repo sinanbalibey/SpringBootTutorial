@@ -21,7 +21,7 @@ User’ın istemciden bir şey istemesi **Request**.
 
 **Ip** 193.255.124.33
 
-![]([Aspose.Words.621754da-0ce1-4b44-b1a7-5902eb1e16ed.001.png "HHTTTP"](https://github.com/sinanbalibey/SpringBootTutorial/blob/main/RestCrudAPIs/Yeni%20klas%C3%B6r/Aspose.Words.621754da-0ce1-4b44-b1a7-5902eb1e16ed.001.png))
+![](https://github.com/sinanbalibey/SpringBootTutorial/blob/main/RestCrudAPIs/Yeni%20klas%C3%B6r/Aspose.Words.621754da-0ce1-4b44-b1a7-5902eb1e16ed.001.png)
 
 Client ile server arasındaki haberleşmeyi sağlayan ilişki protokolüdür.
 
